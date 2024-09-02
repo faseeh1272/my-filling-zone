@@ -1,6 +1,6 @@
+ 
 
-
-/* mobile size */
+/* mobile size 
 
 @media only screen and (max-width: 767px) {
     /* General Container */
@@ -15,7 +15,7 @@
 
     .navbar {
         display: flex;
-        flex-direction: column;
+      flex-wrap: wrap;
         align-items: center;
     }
 
@@ -118,4 +118,5 @@
     #search{
         width: 350px;
     }
-}
+} 
+*/
