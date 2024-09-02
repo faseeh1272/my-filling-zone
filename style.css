@@ -100,16 +100,16 @@ section.second{
     margin-top: 70px;
 }
 
-.row{
+/* .row{
     display: flex;
 justify-content: space-between;
    
-}
+} */
 .fa-star{
 color: gold;
 }
 .size{
-    font-size: 40px;
+    font-size: 30px;
 }
 .trade{
     margin-top: 10px;
@@ -124,9 +124,9 @@ color: gold;
   line-height: 40px;
 }
 .card{
-    text-align: center;
+    /* text-align: center;
    border: 1px solid gray;
-   padding: 10px;
+   padding: 10px; */
   
 }
 .flag-section{
@@ -239,7 +239,7 @@ font-weight: 400;
     color: #E92169;
     background-color:#e4b8c7 ;
     margin-top: 50px;
-    padding: 10px;
+    
     border-radius: 20px;
 }
 .corporate{
@@ -274,5 +274,34 @@ font-weight: 400;
 .lg:hover{
 
 }
+/* section seven */
+
+.text-center{
+    text-align: center;
+}
+.mb-4{
+    margin-bottom: 10px;
+}
+.blue_text{
+    color: #0082C6;
+}
+.card img{
+width: 150px;
+margin: 0 auto;
+
+
+}
+.card{
+    text-align: center;
+    /* text-align: center; */
+    padding: 10px;
+}
+.card button{
+    width: 70px;
+    margin: 0 auto;
+    background-color: #C68200;
+    color: white;
+}
+
 
 

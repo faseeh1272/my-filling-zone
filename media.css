@@ -115,4 +115,7 @@
         width: 100%;
         margin-bottom: 20px;
     }
+    #search{
+        width: 350px;
+    }
 }
