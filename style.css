@@ -85,15 +85,15 @@ input.search:hover{
     background-color: #0082C6;
 }
 .fa-camera{
-    position: absolute;
-right: 36%;
-margin-top: 15px;
-color: #555555;
+    /* position: absolute; */
+    right: 36%;
+    /* margin-top: 15px; */
+    /* color: #555555; */
 }
 .fa-magnifying-glass{
-    position: absolute;
-    margin-left: 15px;
-    margin-top: 20px;
+    /* position: absolute; */
+    /* margin-left: 15px; */
+    /* margin-top: 20px; */
 }
 /* second section */
 section.second{
@@ -305,3 +305,9 @@ margin: 0 auto;
 
 
 
+
+
+.flex.gray {
+    display: flex;
+    align-items: center;
+}
